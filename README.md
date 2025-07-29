@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alia Adnan</h1>
-(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Trust+Me+I'm+a+Software+Engineer+)](https://git.io/typing-svg)
-
+<h3 align="center">A Software Engineer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Trust+Me+I'm+a+Software+Engineer+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliaadnan&label=Profile%20views&color=0e75b6&style=flat" alt="aliaadnan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliaadnan" alt="aliaadnan" /></a> </p>
